@@ -82,9 +82,25 @@ Passwords are hashed with bcryptjs. Authenticated task routes require a JWT bear
 
 ## Demo Video
 
-Demo video placeholder: add the walkthrough video link here before submission.
+Demo video: [Task-app Demo-Vedio.webm](docs/media/Task-app%20Demo-Vedio.webm)
+
+<video src="docs/media/Task-app%20Demo-Vedio.webm" controls width="320"></video>
+
+You can also open [demo-video/task-tracker-demo.html](demo-video/task-tracker-demo.html) to preview or export the generated walkthrough.
 
 For a ready-to-use AI demo script and scene breakdown, see [DEMO_VIDEO_PROMPT.md](DEMO_VIDEO_PROMPT.md).
+
+## Screenshots
+
+These screenshots were captured from the running Expo web app and backend.
+
+![TaskFlow onboarding screen](docs/screenshots/01-onboarding.png)
+
+![TaskFlow login screen](docs/screenshots/02-login.png)
+
+![TaskFlow task dashboard](docs/screenshots/03-task-dashboard.png)
+
+![TaskFlow add task input](docs/screenshots/04-add-task-input.png)
 
 ## Submission Notes
 

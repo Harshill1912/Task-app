@@ -16,3 +16,7 @@ mobile/expo.log
 mobile/expo.err.log
 mobile/expo-web.log
 mobile/expo-web.err.log
+demo-video/
+*.webm
+*.mp4
+!docs/media/Task-app Demo-Vedio.webm
